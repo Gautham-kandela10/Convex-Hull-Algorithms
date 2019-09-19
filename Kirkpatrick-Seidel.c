@@ -21,7 +21,7 @@ struct node{
     float x,y;
 };
 
-float PI = 3.14159265030;
+float PI = 3.14;
 
 int sides=4;
 
