@@ -149,10 +149,7 @@ int main()
      convexhull[i+1]=input[new_point];
      size++;
     }
-for(i=0;i<=size;i++)
-{
-    printf("%d - (%f,%f) \n",i,convexhull[i].x,convexhull[i].y);
-}
+
 
 
 }
