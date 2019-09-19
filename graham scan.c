@@ -209,7 +209,7 @@ while(1)
      }
     if(orientation==1)
     {
-        size--;
+        size++;
 
     }
 }
