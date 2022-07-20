@@ -3,10 +3,10 @@ Algortihms to solve the Convex Hull problem:
 
 
 
-1.)Jarivs March:
+1.) Jarvis March:
 In computational geometry, the gift wrapping algorithm is an algorithm for computing the convex hull of a given set of points the algorithm is also known as Jarvis march, named after R. A. Jarvis, who published it in 1973; it has O(nh) time complexity, where n is the number of points and h is the number of points on the convex hull. Its real-life performance compared with other convex hull algorithms is favorable when n is small or h is expected to be very small with respect to n. In general cases, the algorithm is outperformed many algortihms and also by the following algorithms.
 
-2.)Graham's Scan:
+2.) Graham's Scan:
 Graham's scan is a method of finding the convex hull of a finite set of points in the plane with time complexity O(n log n). The algorithm finds all vertices of the convex hull ordered along its boundary. It uses a stack to detect and remove concavities in the boundary efficiently.
 
 3.) KirkPatrick-Seidel:
